@@ -1,0 +1,17 @@
+﻿  HistogramEqualization.cpp
+C:\Users\petro\source\repos\HistogramEqualization\HistogramEqualization\HistogramEqualization.cpp(27,21): warning C4244: 'inizializzazione': conversione da 'double' a 'uchar'. Possibile perdita di dati.
+C:\Users\petro\source\repos\HistogramEqualization\HistogramEqualization\HistogramEqualization.cpp(28,21): warning C4244: 'inizializzazione': conversione da 'double' a 'uchar'. Possibile perdita di dati.
+C:\Users\petro\source\repos\HistogramEqualization\HistogramEqualization\HistogramEqualization.cpp(29,21): warning C4244: 'inizializzazione': conversione da 'double' a 'uchar'. Possibile perdita di dati.
+C:\Users\petro\source\repos\HistogramEqualization\HistogramEqualization\HistogramEqualization.cpp(101,34): warning C4244: '=': conversione da '_Rep' a '_Ty'. Possibile perdita di dati.
+          with
+          [
+              _Rep=__int64
+          ]
+          and
+          [
+              _Ty=int
+          ]
+HistogramEqualization.obj : error LNK2001: simbolo esterno "void __cdecl cv::imshow(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class cv::_InputArray const &)" (?imshow@cv@@YAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV_InputArray@1@@Z) non risolto
+HistogramEqualization.obj : error LNK2001: simbolo esterno "bool __cdecl cv::imwrite(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class cv::_InputArray const &,class std::vector<int,class std::allocator<int> > const &)" (?imwrite@cv@@YA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV_InputArray@1@AEBV?$vector@HV?$allocator@H@std@@@3@@Z) non risolto
+HistogramEqualization.obj : error LNK2001: simbolo esterno "void __cdecl cv::resize(class cv::_InputArray const &,class cv::_OutputArray const &,class cv::Size_<int>,double,double,int)" (?resize@cv@@YAXAEBV_InputArray@1@AEBV_OutputArray@1@V?$Size_@H@1@NNH@Z) non risolto
+C:\Users\petro\source\repos\HistogramEqualization\x64\Release\HistogramEqualization.exe : fatal error LNK1120: 3 esterni non risolti

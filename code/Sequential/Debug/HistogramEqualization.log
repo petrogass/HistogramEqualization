@@ -1,0 +1,2 @@
+﻿  HistogramEqualization.cpp
+C:\Users\petro\source\repos\HistogramEqualization\HistogramEqualization\HistogramEqualization.cpp(4,10): fatal  error C1083: Non è possibile aprire il file inclusione: 'opencv2/core/core.hpp': No such file or directory

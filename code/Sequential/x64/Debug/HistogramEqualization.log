@@ -1,0 +1,14 @@
+﻿  HistogramEqualization.cpp
+C:\Users\petro\source\repos\HistogramEqualization\HistogramEqualization\HistogramEqualization.cpp(27,21): warning C4244: 'inizializzazione': conversione da 'double' a 'uchar'. Possibile perdita di dati.
+C:\Users\petro\source\repos\HistogramEqualization\HistogramEqualization\HistogramEqualization.cpp(28,21): warning C4244: 'inizializzazione': conversione da 'double' a 'uchar'. Possibile perdita di dati.
+C:\Users\petro\source\repos\HistogramEqualization\HistogramEqualization\HistogramEqualization.cpp(29,21): warning C4244: 'inizializzazione': conversione da 'double' a 'uchar'. Possibile perdita di dati.
+C:\Users\petro\source\repos\HistogramEqualization\HistogramEqualization\HistogramEqualization.cpp(102,89): warning C4244: '=': conversione da '_Rep' a '_Ty'. Possibile perdita di dati.
+          with
+          [
+              _Rep=__int64
+          ]
+          and
+          [
+              _Ty=int
+          ]
+  HistogramEqualization.vcxproj -> C:\Users\petro\source\repos\HistogramEqualization\x64\Debug\HistogramEqualization.exe
